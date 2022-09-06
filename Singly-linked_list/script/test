@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+
+odin run Element_insertion.odin -file
+odin run Traversal.odin -file
+rm *.bin
