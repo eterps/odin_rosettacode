@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+for src in *.odin; do
+  odin run "$src" -file
+  echo .
+done
+rm *.bin
