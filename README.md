@@ -5,6 +5,7 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 ## Implemented tasks
 
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
+- [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
 ### Singly-linked list
 
