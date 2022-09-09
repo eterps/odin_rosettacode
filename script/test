@@ -1,8 +1,12 @@
 #!/bin/bash
 set -e
 
-for src in *.odin; do
-  odin run "$src" -file
-  echo .
-done
+if [ -n "$1" ]; then
+  odin run $1*.odin -file
+else
+  for src in *.odin; do
+    odin run "$src" -file
+    echo .
+  done
+fi
 rm *.bin
