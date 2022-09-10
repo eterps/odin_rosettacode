@@ -7,6 +7,10 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
+### Walk a directory
+
+- [Non-recursively](https://rosettacode.org/wiki/Walk_a_directory/Non-recursively#Odin)
+
 ### Singly-linked list
 
 - [Element definition](https://rosettacode.org/wiki/Singly-linked_list/Element_definition#Odin)
