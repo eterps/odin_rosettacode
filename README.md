@@ -4,6 +4,7 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 
 ## Implemented tasks
 
+- [Address of a variable](https://rosettacode.org/wiki/Address_of_a_variable#Odin)
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
