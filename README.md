@@ -9,6 +9,7 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 - [Check that file exists](https://rosettacode.org/wiki/Check_that_file_exists#Odin)
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
+- [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
 ### Walk a directory
