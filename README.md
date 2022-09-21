@@ -7,6 +7,7 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 - [Address of a variable](https://rosettacode.org/wiki/Address_of_a_variable#Odin)
 - [Call a foreign-language function](https://rosettacode.org/wiki/Call_a_foreign-language_function#Odin)
 - [Check that file exists](https://rosettacode.org/wiki/Check_that_file_exists#Odin)
+- [Command-line arguments](https://rosettacode.org/wiki/Command-line_arguments#Odin)
 - [Enumerations](https://rosettacode.org/wiki/Enumerations#Odin)
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
