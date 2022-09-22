@@ -13,6 +13,7 @@ I am giving the [Odin programming language](https://odin-lang.org/) a try, I dec
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
 - [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Read entire file](https://rosettacode.org/wiki/Read_entire_file#Odin)
+- [Variable size](https://rosettacode.org/wiki/Variable_size#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
 ### Walk a directory
