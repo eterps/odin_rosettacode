@@ -2,6 +2,8 @@
 
 I am giving the [Odin programming language](https://odin-lang.org/) a try, I decided to contribute Odin examples to [Rosetta Code](https://rosettacode.org) in the process.
 
+Feel free to improve on the examples if some are not idiomatic Odin style (I'm still learning).
+
 ## Implemented tasks
 
 - [Address of a variable](https://rosettacode.org/wiki/Address_of_a_variable#Odin)
