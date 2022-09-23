@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+cd src
 if [ -n "$1" ]; then
   odin run $1*.odin -file
 else
