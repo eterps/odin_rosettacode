@@ -12,6 +12,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Command-line arguments](https://rosettacode.org/wiki/Command-line_arguments#Odin)
 - [Enumerations](https://rosettacode.org/wiki/Enumerations#Odin)
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
+- [File input output](https://rosettacode.org/wiki/File_input__output#Odin)
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
 - [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Read entire file](https://rosettacode.org/wiki/Read_entire_file#Odin)
