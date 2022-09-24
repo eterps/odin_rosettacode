@@ -1,2 +1,2 @@
 #!/bin/bash
-watchexec -e odin ./script/test src/$@
+watchexec -e odin ./script/test $@
