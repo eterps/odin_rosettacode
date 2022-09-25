@@ -10,6 +10,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Call a foreign-language function](https://rosettacode.org/wiki/Call_a_foreign-language_function#Odin)
 - [Check that file exists](https://rosettacode.org/wiki/Check_that_file_exists#Odin)
 - [Command-line arguments](https://rosettacode.org/wiki/Command-line_arguments#Odin)
+- [Draw a pixel](https://rosettacode.org/wiki/Draw_a_pixel#Odin)
 - [Enumerations](https://rosettacode.org/wiki/Enumerations#Odin)
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [File input output](https://rosettacode.org/wiki/File_input__output#Odin)
