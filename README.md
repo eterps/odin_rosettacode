@@ -17,6 +17,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
 - [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Read entire file](https://rosettacode.org/wiki/Read_entire_file#Odin)
+- [Search a list](https://rosettacode.org/wiki/Search_a_list#Odin)
 - [Variable size](https://rosettacode.org/wiki/Variable_size#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
