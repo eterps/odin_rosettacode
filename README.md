@@ -15,6 +15,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Factorial](https://rosettacode.org/wiki/Factorial#Odin)
 - [File input output](https://rosettacode.org/wiki/File_input__output#Odin)
 - [Memory allocation](https://rosettacode.org/wiki/Memory_allocation#Odin)
+- [Mouse position](https://rosettacode.org/wiki/Mouse_position#Odin)
 - [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Read entire file](https://rosettacode.org/wiki/Read_entire_file#Odin)
 - [Search a list](https://rosettacode.org/wiki/Search_a_list#Odin)
