@@ -7,6 +7,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 ## Implemented tasks
 
 - [Address of a variable](https://rosettacode.org/wiki/Address_of_a_variable#Odin)
+- [Apply a callback to an array](https://rosettacode.org/wiki/Apply_a_callback_to_an_array#Odin)
 - [Call a foreign-language function](https://rosettacode.org/wiki/Call_a_foreign-language_function#Odin)
 - [Check that file exists](https://rosettacode.org/wiki/Check_that_file_exists#Odin)
 - [Command-line arguments](https://rosettacode.org/wiki/Command-line_arguments#Odin)
