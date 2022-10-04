@@ -25,6 +25,7 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Search a list](https://rosettacode.org/wiki/Search_a_list#Odin)
 - [String matching](https://rosettacode.org/wiki/String_matching#Odin)
 - [Sum data type](https://rosettacode.org/wiki/Sum_data_type#Odin)
+- [Test a function](https://rosettacode.org/wiki/Test_a_function#Odin)
 - [Variable size](https://rosettacode.org/wiki/Variable_size#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
 
