@@ -24,18 +24,12 @@ Feel free to improve on the examples if some are not idiomatic Odin style (I'm s
 - [Read a file line by line](https://rosettacode.org/wiki/Read_a_file_line_by_line#Odin)
 - [Read entire file](https://rosettacode.org/wiki/Read_entire_file#Odin)
 - [Search a list](https://rosettacode.org/wiki/Search_a_list#Odin)
+- [Singly-linked list/Element definition](https://rosettacode.org/wiki/Singly-linked_list/Element_definition#Odin)
+- [Singly-linked list/Element insertion](https://rosettacode.org/wiki/Singly-linked_list/Element_insertion#Odin)
+- [Singly-linked list/Traversal](https://rosettacode.org/wiki/Singly-linked_list/Traversal#Odin)
 - [String matching](https://rosettacode.org/wiki/String_matching#Odin)
 - [Sum data type](https://rosettacode.org/wiki/Sum_data_type#Odin)
 - [Test a function](https://rosettacode.org/wiki/Test_a_function#Odin)
 - [Variable size](https://rosettacode.org/wiki/Variable_size#Odin)
+- [Walk a directory/Non-recursively](https://rosettacode.org/wiki/Walk_a_directory/Non-recursively#Odin)
 - [Window creation](https://rosettacode.org/wiki/Window_creation#Odin)
-
-### Walk a directory
-
-- [Non-recursively](https://rosettacode.org/wiki/Walk_a_directory/Non-recursively#Odin)
-
-### Singly-linked list
-
-- [Element definition](https://rosettacode.org/wiki/Singly-linked_list/Element_definition#Odin)
-- [Element insertion](https://rosettacode.org/wiki/Singly-linked_list/Element_insertion#Odin)
-- [Traversal](https://rosettacode.org/wiki/Singly-linked_list/Traversal#Odin)
